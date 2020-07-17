@@ -1,0 +1,188 @@
+id: 18  name: US
+id: 22  name: Brazil
+id: 27  name: India
+id: 14  name: Russia
+id: 23  name: Peru
+id: 21  name: Chile
+id: 20  name: Mexico
+id: 163 name: South Africa
+id: 17  name: United Kingdom
+id: 97  name: Iran
+id: 28  name: Pakistan
+id: 19  name: Spain
+id: 11  name: Italy
+id: 154 name: Saudi Arabia
+id: 177 name: Turkey
+id: 7   name: France
+id: 8   name: Germany
+id: 40  name: Bangladesh
+id: 24  name: Colombia
+id: 35  name: Argentina
+id: 3   name: Canada
+id: 146 name: Qatar
+id: 98  name: Iraq
+id: 4   name: China
+id: 74  name: Egypt
+id: 96  name: Indonesia
+id: 15  name: Sweden
+id: 73  name: Ecuador
+id: 42  name: Belarus
+id: 102 name: azakhstan
+id: 43  name: Belgium
+id: 139 name: Oman
+id: 143 name: Philippines
+id: 106 name: Kuwait
+id: 26  name: Ukraine
+id: 179 name: United Arab Emirates
+id: 47  name: Bolivia
+id: 12  name: Netherlands
+id: 140 name: Panama
+id: 145 name: Portugal
+id: 72  name: Dominican Republic
+id: 159 name: Singapore
+id: 99  name: Israel
+id: 144 name: Poland
+id: 29  name: Afghanistan
+id: 147 name: Romania
+id: 39  name: Bahrain
+id: 137 name: Nigeria
+id: 36  name: Armenia
+id: 16  name: Switzerland
+id: 88  name: Guatemala
+id: 94  name: Honduras
+id: 37  name: Azerbaijan
+id: 10  name: Ireland
+id: 85  name: Ghana
+id: 25  name: Japan
+id: 31  name: Algeria
+id: 126 name: Moldova
+id: 156 name: Serbia
+id: 2   name: Austria
+id: 133 name: Nepal
+id: 130 name: Morocco
+id: 57  name: Cameroon
+id: 181 name: Uzbekistan
+id: 104 name: Korea, South
+id: 68  name: Czechia
+id: 4   name: Cote d'Ivoire
+id: 5   name: Denmark
+id: 107 name: Kyrgyzstan
+id: 103 name: Kenya
+id: 75  name: El Salvador
+id: 1   name: Australia
+id: 166 name: Sudan
+id: 182 name: Venezuela
+id: 13  name: Norway
+id: 63  name: Costa Rica
+id: 120 name: Malaysia
+id: 138 name: North Macedonia
+id: 155 name: Senegal
+id: 62  name: Congo (Kinshasa)
+id: 80  name: Ethiopia
+id: 51  name: Bulgaria
+id: 48  name: Bosnia and Herzegovina
+id: 184 name: West Bank and Gaza
+id: 6   name: Finland
+id: 92  name: Haiti
+id: 170 name: Tajikistan
+id: 89  name: Guinea
+id: 82  name: Gabon
+id: 118 name: Madagascar
+id: 124 name: Mauritania
+id: 105 name: Kosovo
+id: 116 name: Luxembourg
+id: 70  name: Djibouti
+id: 58  name: Central African Republic
+id: 95  name: Hungary
+id: 65  name: Croatia
+id: 86  name: Greece
+id: 30  name: Albania
+id: 172 name: Thailand
+id: 142 name: Paraguay
+id: 135 name: Nicaragua
+id: 162 name: Somalia
+id: 76  name: Equatorial Guinea
+id: 121 name: Maldives
+id: 165 name: Sri Lanka
+id: 119 name: Malawi
+id: 110 name: Lebanon
+id: 66  name: Cuba
+id: 122 name: Mali
+id: 61  name: Congo (Brazzaville)
+id: 164 name: South Sudan
+id: 78  name: Estonia
+id: 160 name: Slovakia
+id: 9   name: Iceland
+id: 115 name: Lithuania
+id: 161 name: Slovenia
+id: 187 name: Zambia
+id: 90  name: Guinea-Bissau
+id: 55  name: Cabo Verde
+id: 158 name: Sierra Leone
+id: 113 name: Libya
+id: 134 name: New Zealand
+id: 186 name: Yemen
+id: 79  name: Eswatini
+id: 148 name: Rwanda
+id: 45  name: Benin
+id: 131 name: Mozambique
+id: 176 name: Tunisia
+id: 129 name: Montenegro
+id: 101 name: Jordan
+id: 109 name: Latvia
+id: 136 name: Niger
+id: 188 name: Zimbabwe
+id: 112 name: Liberia
+id: 178 name: Uganda
+id: 52  name: Burkina Faso
+id: 132 name: Namibia
+id: 67  name: Cyprus
+id: 180 name: Uruguay
+id: 84  name: Georgia
+id: 59  name: Chad
+id: 32  name: Andorra
+id: 167 name: Suriname
+id: 100 name: Jamaica
+id: 174 name: Togo
+id: 153 name: Sao Tome and Principe
+id: 69  name: Diamond Princess
+id: 152 name: San Marino
+id: 123 name: Malta
+id: 33  name: Angola
+id: 171 name: Tanzania
+id: 168 name: Syria
+id: 169 name: Taiwan
+id: 49  name: Botswana
+id: 183 name: Vietnam
+id: 125 name: Mauritius
+id: 53  name: Burma
+id: 60  name: Comoros
+id: 91  name: Guyana
+id: 54  name: Burundi
+id: 128 name: Mongolia
+id: 111 name: Lesotho
+id: 77  name: Eritrea
+id: 56  name: Cambodia
+id: 50  name: Brunei
+id: 175 name: Trinidad and Tobago
+id: 38  name: Bahamas
+id: 127 name: Monaco
+id: 41  name: Barbados
+id: 157 name: Seychelles
+id: 46  name: Bhutan
+id: 114 name: Liechtenstein
+id: 34  name: Antigua and Barbuda
+id: 83  name: Gambia
+id: 44  name: Belize
+id: 151 name: Saint Vincent and the Grenadines
+id: 81  name: Fiji
+id: 173 name: Timor-Leste
+id: 87  name: Grenada
+id: 150 name: Saint Lucia
+id: 108 name: Laos
+id: 71  name: Dominica
+id: 149 name: Saint Kitts and Nevis
+id: 93  name: Holy See
+id: 141 name: Papua New Guinea
+id: 185 name: Western Sahara
+id: 117 name: MS Zaandam
